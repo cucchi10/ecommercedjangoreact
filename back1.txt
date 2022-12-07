@@ -1,0 +1,12 @@
+npm init -y
+
+npm i express express-session mysql ejs dotenv bcryptjs
+
+
+
+
+
+
+back1
+
+npm install express ejs passport bcryptjs cookie-parser dotenv ejs jsonwebtoken mysql express-session
